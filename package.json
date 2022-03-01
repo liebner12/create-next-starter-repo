@@ -1,7 +1,6 @@
 {
   "name": "create-next-ts-starter",
   "version": "0.0.0",
-  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
